@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageWatermarker.UI", "ImageWatermarker.UI.csproj", "{F163DCCC-A5FF-4E2F-A547-0043BE2FFC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCopyrightCtrl", "..\ImageWatermarker.Ctl\ImageCopyrightCtrl.csproj", "{DB53EAE0-AF14-4085-B468-2CA6FEBFC83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F163DCCC-A5FF-4E2F-A547-0043BE2FFC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F163DCCC-A5FF-4E2F-A547-0043BE2FFC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F163DCCC-A5FF-4E2F-A547-0043BE2FFC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F163DCCC-A5FF-4E2F-A547-0043BE2FFC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB53EAE0-AF14-4085-B468-2CA6FEBFC83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB53EAE0-AF14-4085-B468-2CA6FEBFC83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB53EAE0-AF14-4085-B468-2CA6FEBFC83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB53EAE0-AF14-4085-B468-2CA6FEBFC83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {DE7C92DE-050F-4DA9-9CE9-2074A5CD828E}
+	EndGlobalSection
+EndGlobal

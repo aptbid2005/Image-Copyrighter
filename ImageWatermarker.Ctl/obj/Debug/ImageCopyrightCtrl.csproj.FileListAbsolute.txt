@@ -1,0 +1,10 @@
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.ImagePreview.resources
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.Properties.Resources.resources
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.UserControl1.resources
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.csproj.GenerateResource.cache
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.csproj.CoreCompileInputs.cache
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\bin\Debug\ImageCopyrightCtrl.dll
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\bin\Debug\ImageCopyrightCtrl.pdb
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\bin\Debug\ImageCopyrightCtrl.xml
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.dll
+C:\Source\Image Watermark Converted\ImageWatermarker.Ctl\obj\Debug\ImageCopyrightCtrl.pdb

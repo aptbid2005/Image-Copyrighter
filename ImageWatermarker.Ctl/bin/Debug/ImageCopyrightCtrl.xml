@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageCopyrightCtrl</name>
+    </assembly>
+    <members>
+        <member name="M:ImageCopyrightCtrl.Globals.EncryptAES(System.String)">
+            <summary>
+            Provides Standard 192 bit (AES) Encryption with a ramdomly selected key, and Initialization Vector
+            </summary>
+            <param name="Value">The value you want to Encrypt</param>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:ImageCopyrightCtrl.Globals.DecryptAES(System.String)">
+            <summary>
+            Provides Standard 192 bit (AES) Decryption with a ramdomly selected key, and Initialization Vector
+            </summary>
+            <param name="Value">The value you want to Decrypt</param>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:ImageCopyrightCtrl.UserControl1.CopyImage(System.String)">
+            <summary>
+            Copies the image from disk to memory
+            </summary>
+            <param name="path">Path of image to copy</param>
+        </member>
+        <member name="T:ImageCopyrightCtrl.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources._single">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.C_Drive">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.Computer">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.documents">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.folderopen">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.fontcolor">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.HelpMe">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.leftarrow">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.multiple">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.mydesktop">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.pictures">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.play">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.rightarrow">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.temp">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.underline">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ImageCopyrightCtrl.Properties.Resources.zoomORANGE">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
